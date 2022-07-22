@@ -4,7 +4,7 @@
 
 ## Info
 
-> * __This is a simple guessing game built with Html-Css and Javascript. Let's enjoy :) [Click for play](https://github.com/malitopal113/ToDoList)__ 
+> * __This is a simple guessing game built with Html-Css and Javascript. Let's enjoy :) [Click for play](https://malitopal113.github.io/javascript-guessing-game/)__ 
 ---
 
 
